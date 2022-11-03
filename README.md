@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/wilgnerl](https://github.com/wilgnerl)
 
-- 💬 Ask me about **NodeJS, Python**
+- 💬 Ask me about **JavaScript, Python**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/wilgner-lopes-848a59193/](https://www.linkedin.com/in/wilgner-lopes-848a59193/)
 
