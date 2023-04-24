@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, Python**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/wilgner-lopes-848a59193/](https://www.linkedin.com/in/wilgner-lopes-848a59193/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/wilgner-lopes-848a59193](https://www.linkedin.com/in/wilgner-lopes-848a59193)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
